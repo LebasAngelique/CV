@@ -432,3 +432,115 @@ html {
     width: 10px;
   }
 }
+
+
+/* Logo timeline */
+@media (max-width:991px) {
+  .fa-code:before {
+    font-size: 0rem;
+  }
+}
+
+@media (max-width: 375px) {
+  .fa-code:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width: 485px) {
+  .fa-code:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width: 320px) {
+  .fa-code:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width:991px) {
+  .fa-briefcase:before {
+    font-size: 0rem;
+  }
+}
+
+@media (max-width: 375px) {
+  .fa-briefcase:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width: 485px) {
+  .fa-briefcase:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width: 320px) {
+  .fa-briefcase:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width:991px) {
+  .fa-graduation-cap:before {
+    font-size: 0rem;
+  }
+}
+
+@media (max-width: 375px) {
+  .fa-graduation-cap:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width: 485px) {
+  .fa-graduation-cap:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width: 320px) {
+  .fa-graduation-cap:before {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width:991px) {
+  .fontTimeline {
+    font-size: 0rem;
+  }
+}
+
+@media (max-width: 375px) {
+  .fontTimeline {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width: 485px) {
+  .fontTimeline {
+    font-size: 0rem;
+
+  }
+}
+
+@media (max-width: 320px) {
+  .fontTimeline {
+    font-size: 0rem;
+
+  }
+}
+
+/* End logo Timeline */
